@@ -1,0 +1,411 @@
+2024-11-10 18:22:35.238266: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.238659: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.240791: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.246835: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-10 18:22:35.250501: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.250895: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.252984: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.257423 3643186 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-10 18:22:35.257925: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.257925: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.258315: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.258315: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.258989: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+E0000 00:00:1731243155.260328 3643186 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-10 18:22:35.260602: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.260602: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.264381: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.264424: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.264763: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.264762: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.266844: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-10 18:22:35.266860: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-10 18:22:35.267035: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.267034: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.269475 3643191 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-10 18:22:35.270459: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+E0000 00:00:1731243155.272391 3643191 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-10 18:22:35.273121: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-10 18:22:35.273192: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-10 18:22:35.273718: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-10 18:22:35.274074: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2024-11-10 18:22:35.276175: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.277439 3643189 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.277461 3643192 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1731243155.280315 3643189 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1731243155.280334 3643192 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-10 18:22:35.282154: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-10 18:22:35.282534: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-10 18:22:35.283197: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.283548 3643190 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-10 18:22:35.283568: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.283655 3643193 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-10 18:22:35.285637: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+E0000 00:00:1731243155.286412 3643190 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1731243155.286520 3643193 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-10 18:22:35.290717: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-10 18:22:35.290719: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-10 18:22:35.291817: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.292830 3643188 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1731243155.295788 3643188 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-10 18:22:35.296802: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-10 18:22:35.296802: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1731243155.302714 3643187 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1731243155.305740 3643187 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-10 18:22:35.306111: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-10 18:22:35.316313: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-10 18:22:36.603519: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.610274: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.610404: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.610404: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.611321: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.611321: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.619896: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2024-11-10 18:22:36.622608: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+ngrid = 32, box_size = 256
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'cobaya-emulated_root2sigma-256-32-z0-M0-log'
+[0 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[5 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[6 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[1 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[2 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[4 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[7 : script-thermal] Initialized external likelihood.
+ngrid = 32, box_size = 256
+[3 : script-thermal] Initialized external likelihood.
+[0 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Getting initial point... (this may take a few seconds)
+[4 : mcmc] Getting initial point... (this may take a few seconds)
+[6 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Getting initial point... (this may take a few seconds)
+[5 : mcmc] Getting initial point... (this may take a few seconds)
+[3 : mcmc] Getting initial point... (this may take a few seconds)
+[7 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[0 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[6 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[5 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[3 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[7 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[4 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[1 : mcmc] Initial point: log_zeta_0:1.3, alpha:2.3, log_T_reion:4, log_zeta_by_fesc_0:2.4, beta:-0.4
+[0 : model] Measuring speeds... (this may take a few seconds)
+[0 : model] Setting measured speeds (per sec): {script-thermal: 33.7}
+[0 : mcmc] Covariance matrix not present. We will start learning the covariance of the proposal earlier: R-1 = 30 (would be 2 if all params loaded).
+[0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[4 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[6 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[7 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[5 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[1 : mcmc] Progress @ 2024-11-10 18:22:37 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Learn + convergence test @ 200 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 200 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Learn + convergence test @ 200 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 200 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 200 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 200 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 200 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 200 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.687 = avg([0.6407185628742516, 0.6875, 0.7044025157232704, 0.7013888888888888, 0.6289308176100629, 0.7006369426751592, 0.7569444444444444, 0.6666666666666666])
+[0 : mcmc]  - Convergence of means: R-1 = 6.610923 after 1704 accepted steps = sum([213, 220, 224, 202, 200, 220, 218, 207])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Learn + convergence test @ 400 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 400 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Learn + convergence test @ 400 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 400 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 400 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 400 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 400 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 400 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.352 = avg([0.36930860033726814, 0.3200636942675159, 0.3684210526315789, 0.351027397260274, 0.33557046979865773, 0.357495881383855, 0.3487603305785124, 0.3613013698630137])
+[0 : mcmc]  - Convergence of means: R-1 = 1.300697 after 3372 accepted steps = sum([437, 402, 448, 410, 400, 433, 421, 421])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[5 : mcmc] Learn + convergence test @ 600 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 600 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 600 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 600 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 600 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 600 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 600 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Progress @ 2024-11-10 18:23:37 : 1697 steps taken, and 667 accepted.
+[4 : mcmc] Progress @ 2024-11-10 18:23:37 : 1687 steps taken, and 587 accepted.
+[1 : mcmc] Progress @ 2024-11-10 18:23:37 : 1689 steps taken, and 613 accepted.
+[0 : mcmc] Progress @ 2024-11-10 18:23:37 : 1695 steps taken, and 661 accepted.
+[7 : mcmc] Progress @ 2024-11-10 18:23:37 : 1675 steps taken, and 624 accepted.
+[2 : mcmc] Progress @ 2024-11-10 18:23:37 : 1707 steps taken, and 659 accepted.
+[3 : mcmc] Progress @ 2024-11-10 18:23:37 : 1691 steps taken, and 606 accepted.
+[6 : mcmc] Progress @ 2024-11-10 18:23:37 : 1690 steps taken, and 622 accepted.
+[4 : mcmc] Learn + convergence test @ 600 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.289 = avg([0.30392156862745096, 0.27806563039723664, 0.28656462585034015, 0.2744755244755245, 0.26200873362445415, 0.31906976744186044, 0.28998242530755713, 0.29390354868061874])
+[0 : mcmc]  - Convergence of means: R-1 = 0.100236 after 5217 accepted steps = sum([682, 644, 674, 627, 600, 685, 659, 646])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[5 : mcmc] Learn + convergence test @ 800 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 800 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 800 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 800 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 800 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 800 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 800 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 800 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.263 = avg([0.2850092535471931, 0.2665840049597024, 0.25734024179620035, 0.24851367419738407, 0.2326934264107039, 0.2894248608534323, 0.25980975029726516, 0.25743162901307964])
+[0 : mcmc]  - Convergence of means: R-1 = 0.046574 after 6984 accepted steps = sum([923, 859, 894, 835, 800, 935, 873, 865])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[5 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Progress @ 2024-11-10 18:24:37 : 3256 steps taken, and 1098 accepted.
+[4 : mcmc] Progress @ 2024-11-10 18:24:37 : 3238 steps taken, and 959 accepted.
+[0 : mcmc] Progress @ 2024-11-10 18:24:37 : 3251 steps taken, and 1062 accepted.
+[3 : mcmc] Progress @ 2024-11-10 18:24:37 : 3233 steps taken, and 977 accepted.
+[2 : mcmc] Progress @ 2024-11-10 18:24:37 : 3268 steps taken, and 1056 accepted.
+[1 : mcmc] Progress @ 2024-11-10 18:24:37 : 3242 steps taken, and 1006 accepted.
+[7 : mcmc] Progress @ 2024-11-10 18:24:37 : 3216 steps taken, and 1013 accepted.
+[6 : mcmc] Progress @ 2024-11-10 18:24:37 : 3247 steps taken, and 1033 accepted.
+[3 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 1000 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.260 = avg([0.27159880834160877, 0.2592964824120603, 0.2551691729323308, 0.23778195488721804, 0.24437927663734116, 0.29124236252545826, 0.2618930848455125, 0.2534046692607004])
+[0 : mcmc]  - Convergence of means: R-1 = 0.047946 after 8477 accepted steps = sum([1094, 1032, 1086, 1012, 1000, 1144, 1067, 1042])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[5 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 1200 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.252 = avg([0.26127527216174184, 0.24794359576968272, 0.2571649883810999, 0.23680124223602483, 0.2386634844868735, 0.26630222569308865, 0.250682261208577, 0.25771543086172344])
+[0 : mcmc]  - Convergence of means: R-1 = 0.027527 after 10290 accepted steps = sum([1343, 1266, 1327, 1220, 1200, 1364, 1285, 1285])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[5 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Progress @ 2024-11-10 18:25:37 : 4809 steps taken, and 1481 accepted.
+[4 : mcmc] Progress @ 2024-11-10 18:25:37 : 4777 steps taken, and 1319 accepted.
+[1 : mcmc] Progress @ 2024-11-10 18:25:37 : 4785 steps taken, and 1409 accepted.
+[3 : mcmc] Progress @ 2024-11-10 18:25:37 : 4774 steps taken, and 1364 accepted.
+[2 : mcmc] Progress @ 2024-11-10 18:25:37 : 4819 steps taken, and 1446 accepted.
+[7 : mcmc] Progress @ 2024-11-10 18:25:37 : 4728 steps taken, and 1421 accepted.
+[0 : mcmc] Progress @ 2024-11-10 18:25:37 : 4798 steps taken, and 1485 accepted.
+[6 : mcmc] Progress @ 2024-11-10 18:25:37 : 4796 steps taken, and 1416 accepted.
+[3 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 1400 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.256 = avg([0.26495726495726496, 0.25406715126341295, 0.25429437521050857, 0.25587188612099643, 0.24769992922859166, 0.25744894543019753, 0.24790619765494137, 0.2648936170212766])
+[0 : mcmc]  - Convergence of means: R-1 = 0.029782 after 11873 accepted steps = sum([1549, 1468, 1509, 1438, 1400, 1537, 1479, 1493])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 1600 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.252 = avg([0.2537577365163572, 0.2504520795660036, 0.25445368171021376, 0.24635479951397327, 0.2516514627241271, 0.25087006960556846, 0.24799762681696827, 0.26240694789081886])
+[0 : mcmc]  - Convergence of means: R-1 = 0.022142 after 13410 accepted steps = sum([1722, 1661, 1714, 1621, 1600, 1730, 1671, 1691])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[0 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Progress @ 2024-11-10 18:26:37 : 6343 steps taken, and 1823 accepted.
+[4 : mcmc] Progress @ 2024-11-10 18:26:37 : 6298 steps taken, and 1727 accepted.
+[1 : mcmc] Progress @ 2024-11-10 18:26:37 : 6313 steps taken, and 1772 accepted.
+[3 : mcmc] Progress @ 2024-11-10 18:26:37 : 6329 steps taken, and 1755 accepted.
+[2 : mcmc] Progress @ 2024-11-10 18:26:37 : 6359 steps taken, and 1842 accepted.
+[7 : mcmc] Progress @ 2024-11-10 18:26:37 : 6244 steps taken, and 1822 accepted.
+[0 : mcmc] Progress @ 2024-11-10 18:26:37 : 6333 steps taken, and 1849 accepted.
+[6 : mcmc] Progress @ 2024-11-10 18:26:37 : 6332 steps taken, and 1810 accepted.
+[1 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.252 = avg([0.2507828810020877, 0.24919268030139935, 0.26129294022180144, 0.254853022739878, 0.2504870581686613, 0.2395754359363154, 0.24900662251655628, 0.2615341856586993])
+[0 : mcmc]  - Convergence of means: R-1 = 0.011232 after 14999 accepted steps = sum([1922, 1851, 1932, 1838, 1800, 1895, 1880, 1881])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 2000 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.253 = avg([0.25386996904024767, 0.2541871921182266, 0.2615123606398449, 0.2521631644004944, 0.2464268112370626, 0.23428700157693175, 0.2561301286720078, 0.26532663316582916])
+[0 : mcmc]  - Convergence of means: R-1 = 0.013139 after 16691 accepted steps = sum([2131, 2064, 2157, 2039, 2000, 2079, 2110, 2111])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Progress @ 2024-11-10 18:27:37 : 7832 steps taken, and 2098 accepted.
+[5 : mcmc] Progress @ 2024-11-10 18:27:37 : 7881 steps taken, and 2163 accepted.
+[7 : mcmc] Progress @ 2024-11-10 18:27:37 : 7754 steps taken, and 2210 accepted.
+[1 : mcmc] Progress @ 2024-11-10 18:27:37 : 7843 steps taken, and 2143 accepted.
+[3 : mcmc] Progress @ 2024-11-10 18:27:37 : 7862 steps taken, and 2130 accepted.
+[2 : mcmc] Progress @ 2024-11-10 18:27:37 : 7901 steps taken, and 2252 accepted.
+[0 : mcmc] Progress @ 2024-11-10 18:27:37 : 7871 steps taken, and 2234 accepted.
+[6 : mcmc] Progress @ 2024-11-10 18:27:37 : 7863 steps taken, and 2225 accepted.
+[5 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 2200 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.252 = avg([0.2488726648056689, 0.2490616030028704, 0.26362823949955316, 0.24882101953739053, 0.2506836827711942, 0.22840885998780736, 0.260018009905448, 0.2672672672672673])
+[0 : mcmc]  - Convergence of means: R-1 = 0.007749 after 18218 accepted steps = sum([2317, 2256, 2360, 2216, 2200, 2247, 2309, 2313])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[6 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[7 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[7 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[5 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[4 : mcmc] Learn + convergence test @ 2400 samples accepted.
+[4 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.250 = avg([0.24596224946487644, 0.25101626016260165, 0.2534874451972898, 0.251909973157134, 0.25010421008753647, 0.23178931639895406, 0.25650406504065043, 0.26228488492639435])
+[0 : mcmc]  - Convergence of means: R-1 = 0.009932 after 19916 accepted steps = sum([2528, 2469, 2544, 2439, 2400, 2482, 2524, 2530])
+[0 : mcmc]  - Convergence of bounds: R-1 = 0.076778 after 19916 accepted steps = sum([2528, 2469, 2544, 2439, 2400, 2482, 2524, 2530])
+[0 : mcmc] The run has converged!
+[0 : mcmc] Sampling complete after 19916 accepted steps.
+
+real	5m52.730s
+user	46m8.457s
+sys	2m17.808s

@@ -1,0 +1,74 @@
+Results summary
+Results in kerastuner/cosmo_project
+Showing 10 best trials
+Objective(name="val_MeanSquaredError", direction="min")
+
+Trial 0377 summary
+Hyperparameters:
+units_0: 500
+units_1: 250
+units_2: 200
+Score: 0.05288659781217575
+
+Trial 0496 summary
+Hyperparameters:
+units_0: 300
+units_1: 250
+units_2: 150
+Score: 0.06337058544158936
+
+Trial 0272 summary
+Hyperparameters:
+units_0: 450
+units_1: 150
+units_2: 450
+Score: 0.06426786631345749
+
+Trial 0107 summary
+Hyperparameters:
+units_0: 350
+units_1: 450
+units_2: 500
+Score: 0.06766874343156815
+
+Trial 0248 summary
+Hyperparameters:
+units_0: 400
+units_1: 450
+units_2: 250
+Score: 0.06795049458742142
+
+Trial 0354 summary
+Hyperparameters:
+units_0: 250
+units_1: 200
+units_2: 100
+Score: 0.06826065480709076
+
+Trial 0634 summary
+Hyperparameters:
+units_0: 200
+units_1: 300
+units_2: 400
+Score: 0.06846822798252106
+
+Trial 0782 summary
+Hyperparameters:
+units_0: 400
+units_1: 400
+units_2: 400
+Score: 0.068999744951725
+
+Trial 0278 summary
+Hyperparameters:
+units_0: 500
+units_1: 200
+units_2: 50
+Score: 0.06975822150707245
+
+Trial 0386 summary
+Hyperparameters:
+units_0: 200
+units_1: 300
+units_2: 100
+Score: 0.07083679735660553
