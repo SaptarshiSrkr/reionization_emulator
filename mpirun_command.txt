@@ -1,5 +1,3 @@
-#Running SCRIPT MCMC
-
 (time mpirun -n 8 python script_thermal_emulated_cobaya.py) 2>&1 | tee mcmc_log_32_emulated.txt
 
 
