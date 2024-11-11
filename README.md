@@ -1,1 +1,1 @@
-# Machine Learning Algorithms for Reionization Parameter Inference
+Machine Learning Algorithms for Reionization Parameter Inference
