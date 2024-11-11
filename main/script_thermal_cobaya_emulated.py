@@ -14,10 +14,10 @@ box_size = 256
 print(f'ngrid = {ngrid}, box_size = {box_size}')
 
 outdir = 'chains/'
-outroot = f"cobaya-emulated-{box_size}-{ngrid}-z0-M0-log"
+outroot = f"cobaya-noutliers-emulated-{box_size}-{ngrid}-z0-M0-log"
 only_minimize = False
 
-emulator = tf.keras.models.load_model('script_chisq_emulator_256_32.keras')
+emulator = tf.keras.models.load_model('script_chisq_emulator_noutliers_256_32.keras')
 
 #### cobaya specifications
 Rminus1_stop = 0.01

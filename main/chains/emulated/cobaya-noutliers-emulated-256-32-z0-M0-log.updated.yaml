@@ -1,0 +1,97 @@
+theory: null
+likelihood:
+  script-thermal:
+    type: []
+    speed: -1
+    stop_at_error: false
+    version: null
+    external: true
+    input_params:
+    - log_zeta_0
+    - alpha
+    - log_T_reion
+    - log_zeta_by_fesc_0
+    - beta
+    output_params:
+    - log_fesc_0
+params:
+  log_zeta_0:
+    prior:
+      min: 0.0
+      max: 10.0
+    ref: 1.3
+    proposal: 0.01
+    latex: \log \zeta_0
+  alpha:
+    prior:
+      min: -20.0
+      max: 20.0
+    ref: 2.3
+    proposal: 0.01
+    latex: \alpha
+  log_T_reion:
+    prior:
+      min: 2.0
+      max: 5.0
+    ref: 4.0
+    proposal: 0.01
+    latex: \log T_{\mathrm{re}}
+  log_zeta_by_fesc_0:
+    prior:
+      min: 0.0
+      max: 6.0
+    ref: 2.4
+    proposal: 0.01
+    latex: \log \zeta_0 / f_{\mathrm{esc}, 0}
+  beta:
+    prior:
+      min: -1.0
+      max: 0.0
+    ref: -0.4
+    proposal: 0.01
+    latex: \beta
+  log_fesc_0:
+    min: -.inf
+    max: .inf
+    latex: \log f_{\mathrm{esc}, 0}
+    derived: true
+sampler:
+  mcmc:
+    burn_in: 0
+    max_tries: 100000
+    covmat: null
+    covmat_params: null
+    proposal_scale: 2.4
+    output_every: 60s
+    learn_every: 40d
+    temperature: 1
+    learn_proposal: true
+    learn_proposal_Rminus1_max: 2.0
+    learn_proposal_Rminus1_max_early: 30.0
+    learn_proposal_Rminus1_min: 0.0
+    max_samples: .inf
+    Rminus1_stop: 0.01
+    Rminus1_cl_stop: 0.1
+    Rminus1_cl_level: 0.997
+    Rminus1_single_split: 4
+    measure_speeds: true
+    oversample_power: 0.4
+    oversample_thin: true
+    drag: false
+    blocking:
+    - - 1
+      - - log_zeta_0
+        - alpha
+        - log_T_reion
+        - log_zeta_by_fesc_0
+        - beta
+    callback_function: null
+    callback_every: null
+    seed: null
+    check_every: null
+    oversample: null
+    drag_limits: null
+    fallback_covmat_scale: 4
+    version: 3.5.4
+output: cobaya-noutliers-emulated-256-32-z0-M0-log
+version: 3.5.4

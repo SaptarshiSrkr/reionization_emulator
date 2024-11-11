@@ -10,20 +10,22 @@ chainsdir = './chains'
 
 fileroot_full_4 = f'full_simulation/cobaya-test-256-4-z0-M0-log'
 fileroot_full_32 = f'full_simulation/cobaya-test-256-32-z0-M0-log'
-fileroot_emulated = f'emulated/cobaya-emulated-256-32-z0-M0-log'
+#fileroot_emulated = f'emulated/cobaya-emulated-256-32-z0-M0-log'
+fileroot_emulated = f'emulated/cobaya-noutliers-emulated-256-32-z0-M0-log'
 
 samples_full_4 = loadMCSamples(chainsdir + '/' + fileroot_full_4, settings={'ignore_rows':burn_in,})
 samples_full_32 = loadMCSamples(chainsdir + '/' + fileroot_full_32, settings={'ignore_rows':burn_in,})
+#samples_emulated = loadMCSamples(chainsdir + '/' + fileroot_emulated, settings={'ignore_rows':burn_in,})
 samples_emulated = loadMCSamples(chainsdir + '/' + fileroot_emulated, settings={'ignore_rows':burn_in,})
 
-margestats_full_4 = samples_full_4.getMargeStats()
-likestats_full_4 = samples_full_4.getLikeStats()
+# margestats_full_4 = samples_full_4.getMargeStats()
+# likestats_full_4 = samples_full_4.getLikeStats()
 
-margestats_full_32 = samples_full_32.getMargeStats()
-likestats_full_32 = samples_full_32.getLikeStats()
+# margestats_full_32 = samples_full_32.getMargeStats()
+# likestats_full_32 = samples_full_32.getLikeStats()
 
-margestats_emulated = samples_emulated.getMargeStats()
-likestats_emulated = samples_emulated.getLikeStats()
+# margestats_emulated = samples_emulated.getMargeStats()
+# likestats_emulated = samples_emulated.getLikeStats()
 
 #params = ['log_zeta_0', 'alpha', 'log_T_reion', 'log_zeta_by_fesc_0', 'beta', 'chi2']
 params = ['log_zeta_0', 'alpha', 'log_T_reion', 'log_fesc_0', 'beta']
