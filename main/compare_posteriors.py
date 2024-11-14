@@ -10,12 +10,10 @@ chainsdir = './chains'
 
 fileroot_full_4 = f'full_simulation/cobaya-test-256-4-z0-M0-log'
 fileroot_full_32 = f'full_simulation/cobaya-test-256-32-z0-M0-log'
-#fileroot_emulated = f'emulated/cobaya-emulated-256-32-z0-M0-log'
-fileroot_emulated = f'emulated/cobaya-noutliers-emulated-256-32-z0-M0-log'
+fileroot_emulated = f'emulated/cobaya-emulated-256-32-z0-M0-log'
 
 samples_full_4 = loadMCSamples(chainsdir + '/' + fileroot_full_4, settings={'ignore_rows':burn_in,})
 samples_full_32 = loadMCSamples(chainsdir + '/' + fileroot_full_32, settings={'ignore_rows':burn_in,})
-#samples_emulated = loadMCSamples(chainsdir + '/' + fileroot_emulated, settings={'ignore_rows':burn_in,})
 samples_emulated = loadMCSamples(chainsdir + '/' + fileroot_emulated, settings={'ignore_rows':burn_in,})
 
 # margestats_full_4 = samples_full_4.getMargeStats()
@@ -28,11 +26,11 @@ samples_emulated = loadMCSamples(chainsdir + '/' + fileroot_emulated, settings={
 # likestats_emulated = samples_emulated.getLikeStats()
 
 #params = ['log_zeta_0', 'alpha', 'log_T_reion', 'log_zeta_by_fesc_0', 'beta', 'chi2']
-params = ['log_zeta_0', 'alpha', 'log_T_reion', 'log_fesc_0', 'beta']
+params = ['log_zeta_0', 'alpha', 'log_T_reion', 'log_fesc_0', 'beta','chi2']
 
 g = plots.getSubplotPlotter()
 samples = [samples_full_4, samples_full_32]
-g.settings.num_plot_contours = 2
+g.settings.num_plot_contours = 3
 g.triangle_plot(samples, params, filled=True, legend_labels=['Full MCMC (ngrid = 4)','Full MCMC (ngrid = 32)'])
 
 for i in range(len(params)):
@@ -45,7 +43,7 @@ plt.savefig(f'plots/comparison_4vs32.png',dpi=300,bbox_inches='tight')
 
 g = plots.getSubplotPlotter()
 samples = [samples_emulated, samples_full_32]
-g.settings.num_plot_contours = 2
+g.settings.num_plot_contours = 3
 g.triangle_plot(samples, params, filled=True, legend_labels=['ANN','Full MCMC (ngrid = 32)'])
 
 for i in range(len(params)):

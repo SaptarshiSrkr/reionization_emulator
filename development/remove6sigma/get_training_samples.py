@@ -15,6 +15,14 @@ fileroot = 'cobaya-test-256-4-z0-M0-log'
 samples = loadMCSamples(chainsdir + '/' + fileroot, settings={'ignore_rows':burn_in,})
 samples_arr = samples.samples[:,:5]
 
+# medians = np.median(samples_arr, axis=0)
+# stds = np.std(samples_arr, axis=0)
+
+# lower_limits = medians - 4 * stds
+# upper_limits = medians + 4 * stds
+
+# samples_arr = samples_arr[np.all((samples_arr >= lower_limits) & (samples_arr <= upper_limits), axis=1)]
+
 seed = 66
 nrand = 5000
 rng = np.random.default_rng(seed)
